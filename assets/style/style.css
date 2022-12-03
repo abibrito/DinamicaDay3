@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(0, 0, 0, 0.84);
+    align-items: center;
+    justify-content: center;
+    
+}
+nav {
+    background-color: #CA7900;
+    align-items: center;
+    
+}
+h1 {
+    color: #FFFFFF;
+    text-align: center;
+    
+}
+section {
+    background-color: #CA7900;
+    color: #FFFFFF;
+    font-size: 30px;
+    
+}
+
+.container{
+    justify-content:space-around;
+    align-items:center;
+    margin: 100px;
+    border-radius: 10px;
+    padding: 30px;
+
+
+}
+.container img{
+    margin-top: -100px;
+    width: 130px;
+    
+}
